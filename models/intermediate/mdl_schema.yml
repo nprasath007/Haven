@@ -1,0 +1,12 @@
+
+version: 2
+
+models:
+    - name: tasty_menu
+      description: "A starter dbt model"
+      # columns:
+      #     - name: menu_id
+      #       description: "The primary key for this table"
+      #       tests:
+      #           - unique
+                # - not_null
