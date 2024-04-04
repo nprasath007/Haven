@@ -1,0 +1,11 @@
+
+version: 2
+
+sources:
+    - name: tasty_bytes_sample
+      description: "first source"
+      database: tasty_bytes_sample_data
+      schema: raw_pos
+      tables:
+        - name: menu
+          description: "The primary key for this table"
